@@ -120,4 +120,4 @@ Dumbass stinky people we hate!
 |UserID|Name|Rank|Additional notes|
 |------|----|----|----------------|
 |DAD8F5689EC1FC51<br>1EE38B9C6B26E3E0|MUSI/MEOWSCAS|nothing good|"alleged" pedo|
-|2ECA95BDE7C7C6B7|LXVR|nothing good|MUSI/MEOWSCAS's Partner, attempting to defend them|
+|2ECA95BDE7C7C6B7<br>9B2375E8E3FD2E7A|LXVR|nothing good|MUSI/MEOWSCAS's Partner, attempting to defend them|
